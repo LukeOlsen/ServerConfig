@@ -16,4 +16,4 @@ This project makes use of the following software:
 10. Virtualenv
 
 # Third Party Resources
-This project was solved utilizing the docs for Apache, PostgreSQL, SQLAlchemy, and Flask. In addition it took a lot of googling to work my way through a lot of the errors I was getting so I would say I also utilized a fair bit of knowledge on Stack Overflow.
+This project was solved utilizing the docs for Apache, PostgreSQL, SQLAlchemy, and Flask. In addition it took a lot of googling to work my way through a lot of the errors I was getting so I would say I also utilized a fair bit of knowledge on Stack Overflow / Ubuntu forums to try and figure out what my errors meant to my code. 
